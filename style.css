@@ -66,7 +66,9 @@ header .header-text h2 {
   justify-content: center;
   color: #081539;
   margin-bottom: 50px;
+  font-weight: bold;
 }
+
 
 .descriptions {
   text-align: center;
@@ -79,7 +81,7 @@ header .header-text h2 {
 }
 
 .descriptions p {
-  font-size: 1rem;
+  font-size: rem;
   padding-top: 1.5rem;
 }
 
@@ -96,9 +98,10 @@ header .header-text h2 {
   position: relative;
   display: flex;
   width: 23%;
+  height: 150px;
   justify-content: center;
   align-items: center;
-  background-color: rgb(228, 223, 223);
+  background-color: #fdfdfd;
   border-radius: 25px;
   padding: 20px;
   margin: 10px;
