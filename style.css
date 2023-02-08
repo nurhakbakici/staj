@@ -88,13 +88,14 @@ header .header-text h2 {
   height: 1000px;
   display: flex;
   flex-wrap: wrap;
+  padding: 30px;
 }
 
 .customer-box {
   position: relative;
   display: flex;
-  width: 20%;
-  margin: 20px;
+  width: 23.5%;
+  margin: 10px;
   justify-content: center;
   align-items: center;
   background-color: rgb(228, 223, 223);
