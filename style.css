@@ -93,7 +93,8 @@ header .header-text h2 {
 .customer-box {
   position: relative;
   display: flex;
-  width: 25%;
+  width: 20%;
+  margin: 20px;
   justify-content: center;
   align-items: center;
   background-color: rgb(228, 223, 223);
